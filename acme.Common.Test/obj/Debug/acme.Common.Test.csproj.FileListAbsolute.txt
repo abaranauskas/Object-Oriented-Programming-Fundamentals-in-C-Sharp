@@ -1,0 +1,9 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\acme.Common.Test\bin\Debug\acme.Common.Test.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\acme.Common.Test\bin\Debug\acme.Common.Test.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\acme.Common.Test\bin\Debug\Acme.Comon.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\acme.Common.Test\bin\Debug\Acme.Comon.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\acme.Common.Test\obj\Debug\acme.Common.Test.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\acme.Common.Test\obj\Debug\acme.Common.Test.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\acme.Common.Test\obj\Debug\acme.Common.Test.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\acme.Common.Test\bin\Debug\ACM.BussinessLayer.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\acme.Common.Test\bin\Debug\ACM.BussinessLayer.pdb

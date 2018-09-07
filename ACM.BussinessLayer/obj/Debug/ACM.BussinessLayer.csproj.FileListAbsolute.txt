@@ -1,0 +1,12 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\AcmeCustomerManagement\ACM.BussinessLayer\bin\Debug\ACM.BussinessLayer.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\AcmeCustomerManagement\ACM.BussinessLayer\bin\Debug\ACM.BussinessLayer.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\AcmeCustomerManagement\ACM.BussinessLayer\obj\Debug\ACM.BussinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\AcmeCustomerManagement\ACM.BussinessLayer\obj\Debug\ACM.BussinessLayer.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\AcmeCustomerManagement\ACM.BussinessLayer\obj\Debug\ACM.BussinessLayer.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\ACM.BussinessLayer\bin\Debug\ACM.BussinessLayer.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\ACM.BussinessLayer\bin\Debug\ACM.BussinessLayer.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\ACM.BussinessLayer\obj\Debug\ACM.BussinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\ACM.BussinessLayer\obj\Debug\ACM.BussinessLayer.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\ACM.BussinessLayer\obj\Debug\ACM.BussinessLayer.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\ACM.BussinessLayer\bin\Debug\Acme.Comon.dll
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\AcmeCustomerManagement\ACM.BussinessLayer\bin\Debug\Acme.Comon.pdb
